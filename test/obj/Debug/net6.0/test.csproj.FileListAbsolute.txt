@@ -1,0 +1,15 @@
+/Users/romanas/Desktop/FinalTest/test/bin/Debug/net6.0/test
+/Users/romanas/Desktop/FinalTest/test/bin/Debug/net6.0/test.deps.json
+/Users/romanas/Desktop/FinalTest/test/bin/Debug/net6.0/test.runtimeconfig.json
+/Users/romanas/Desktop/FinalTest/test/bin/Debug/net6.0/test.dll
+/Users/romanas/Desktop/FinalTest/test/bin/Debug/net6.0/test.pdb
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/test.dll
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/refint/test.dll
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/test.pdb
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/test.genruntimeconfig.cache
+/Users/romanas/Desktop/FinalTest/test/obj/Debug/net6.0/ref/test.dll

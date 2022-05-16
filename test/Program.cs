@@ -28,3 +28,11 @@ void PrintNewArray(string[] newArray)
     }
     Console.WriteLine("'{0}']" , newArray[newArray.Length - 1]);
 }
+
+string[] initialArray = { "hello", "2", "world", ":-)" };
+int symbol = 3;
+PrintArray(initialArray);
+Console.WriteLine();
+Console.Write("Нажмите Enter, чтобы показать 2 элемента в новом массиве");
+Console.ReadLine();
+PrintNewArray(MakeNewArray(initialArray, symbol));
