@@ -19,3 +19,12 @@ string[] MakeNewArray(string[] arra, int num)
     }
     return resArra;
 }
+
+void PrintNewArray(string[] newArray)
+{
+    for (int i = 0; i < newArray.Length - 1; i++)
+    {
+        if (newArray[i] != string.Empty) Console.Write("['{0}', ",newArray[i]  );
+    }
+    Console.WriteLine("'{0}']" , newArray[newArray.Length - 1]);
+}
